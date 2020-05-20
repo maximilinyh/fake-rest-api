@@ -1,0 +1,58 @@
+{
+"start_date": "",
+"end_date": "", 
+"top": 10,
+"top_failed_tasks": [
+
+      {
+        "name": "test_task_1", 
+        "counter": 100
+      },
+
+      {
+        "name": "test_task_2", 
+        "counter": 99
+      },
+
+      {
+        "name": "test_task_3", 
+        "counter": 85
+      },
+        
+      {
+        "name": "test_task_4", 
+        "counter": 79
+      },
+
+      {
+        "name": "test_task_5", 
+        "counter": 68
+      },
+        
+      {
+        "name": "test_task_6", 
+        "counter": 55
+      },
+        
+      {
+        "name": "test_task_7", 
+        "counter": 45
+      },
+      
+      {
+        "name": "test_task_8", 
+        "counter": 32
+     },
+
+      {
+        "name": "test_task_9", 
+        "counter": 23
+      },
+
+     {
+        "name": "test_task_10", 
+        "counter": 12
+      },
+
+  ]
+}
